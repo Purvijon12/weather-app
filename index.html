@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Colorful Weather App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-container">
+    <h1>🌦️ Weather Now</h1>
+    <div class="search-box">
+      <input type="text" id="cityInput" placeholder="Enter city name..." />
+      <button onclick="getWeather()">🔍 Search</button>
+    </div>
+    <div class="weather-result" id="weatherResult">
+      <!-- Weather data will appear here -->
+    </div>
+    <div class="error-message" id="errorMsg"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
