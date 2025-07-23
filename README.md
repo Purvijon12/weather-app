@@ -1,8 +1,8 @@
-# 🌦️ Weather Now - Colorful Weather App
+# Weather Now - Colorful Weather App
 
 This is a responsive, interactive, and beautifully styled Weather Web Application that fetches real-time weather data using the OpenWeatherMap API.
 
-## 🚀 Features
+## Features
 
 - Enter any city name to get real-time weather
 - Shows:
@@ -13,25 +13,25 @@ This is a responsive, interactive, and beautifully styled Weather Web Applicatio
 - Colorful and responsive UI
 - Error handling for invalid inputs
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS (gradient styling and responsive layout)
 - JavaScript (with `async/await` for API call)
 - OpenWeatherMap API
 
-## 📦 How to Run
+## How to Run
 
 1. Clone or download the project.
 2. Replace `YOUR_API_KEY` in `script.js` with your actual OpenWeatherMap API key.
 3. Open `index.html` in any browser.
 
-## 📝 Notes
+##  Notes
 
 - Make sure you register for a free API key at [https://openweathermap.org/api](https://openweathermap.org/api).
 - Follow API rate limits as per their terms of service.
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Weather App Screenshot](screenshot.png)
 
